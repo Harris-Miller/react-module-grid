@@ -1,10 +1,12 @@
 import React from 'react';
 import Container from './container';
-import styles from './demo.css';
+import Row from './row';
 
 const Demo = () => (
-  <Container className={styles.test}>
-    Hello, World!
+  <Container>
+    <Row>
+      Hello, World!
+    </Row>
   </Container>
 );
 
