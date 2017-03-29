@@ -1,0 +1,29 @@
+{
+  "name": "react-module-grid",
+  "version": "0.1.0",
+  "description": "Flexbox grid for React using css-modules and css-next",
+  "main": "index.js",
+  "author": "Harris Miller",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-eslint": "^7.2.1",
+    "babel-jest": "^19.0.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-react-app": "^2.2.0",
+    "eslint": "^3.18.0",
+    "eslint-config-harris": "^1.0.0-rc.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "jest": "^19.0.2",
+    "object-hash": "^1.1.7",
+    "postcss-cssnext": "^2.10.0",
+    "postcss-import": "^9.1.0",
+    "postcss-loader": "^1.3.3",
+    "style-loader": "^0.16.1",
+    "webpack": "^2.3.2",
+    "webpack-dev-server": "^2.4.2"
+  },
+  "dependencies": {}
+}

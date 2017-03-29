@@ -1,0 +1,11 @@
+:root {
+  --padding: 15px;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: var(--padding);
+  padding-left: var(--padding);
+}
+
